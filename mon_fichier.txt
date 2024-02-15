@@ -2,3 +2,4 @@ création d'un fichier test
 nouvelle ligne ecrite par Paola
 ajout d'une ligne pour créer un conflit
 
+Ajout d'une nouvelle ligne pour tester merge ; ajout par Balthazar
