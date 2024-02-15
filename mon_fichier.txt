@@ -1,3 +1,4 @@
 création d'un fichier test
 nouvelle ligne ecrite par Paola
-ajout d'une ligne par Paola (utilisateur bis) pour creer un conflit
+ajout d'une ligne pour créer un conflit
+
